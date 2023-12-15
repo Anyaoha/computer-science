@@ -17,6 +17,7 @@ Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
 StalkHub | Stalk Github beautifully | [Aman Roy](https://github.com/aman-roy) | [StalkHub](https://github.com/aman-roy/StalkHub)
 Webliza | ELIZA in python with web interface | [Vipin Kumar](https://github.com/VipinindKumar) | [Webliza](https://github.com/VipinindKumar/Webliza)
+PWControl | A simple password generator and manager | [Thai Huu Tri](https://github.com/thaitri2005) | [PWControl](https://github.com/thaitri2005/PWControl)
 
 
 ## Programming
@@ -39,3 +40,4 @@ Project Title | Description | Author(s) | Repository
 Project Title | Description | Author(s) | Repository
 :-- | :-- | :--: | :--
 Observatory | Interactively displays temperatures and deviations all around the world from 1975 to 2015 | [spamegg](https://github.com/spamegg1) | [ScalaCapstone](https://github.com/spamegg1/ScalaCapstone)
+Cloud Data Processing | Querying airline traffic data with batch and stream processing on cloud services | [MartinOvington](https://github.com/MartinOvington) | [CloudCapstone](https://github.com/MartinOvington/cloud-specialization)

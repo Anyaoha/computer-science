@@ -61,11 +61,11 @@ just remember that you can't purchase success!
 
 **Process**. Students can work through the curriculum alone or in groups, in order or out of order.
 - We recommend doing all courses in Core CS, only skipping a course when you are certain that you've already learned the material previously.
-- For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom, as they have already been [topologically sorted](https://en.wikipedia.org/wiki/Topological_sorting) by their prerequisites.
-- Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject, but we recommend getting validation from the community on the subject you choose.
+- For simplicity, we recommend working through courses (especially Core CS) in order from top to bottom. Some students choose to study multiple courses at a time in order to vary the material they are working on is a day/week. A popular option is to take the math courses in parallel with the introductory courses. Course prerequisites are listed to help you determine if you are prepared for a given course.
+- Courses in Advanced CS are electives. Choose one subject (e.g. Advanced programming) you want to become an expert in and take all the courses under that heading. You can also create your own custom subject; the discord community may provide feedback on your planned subject.
 
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
-*Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
+*Respect the code of conduct* that you signed in the beginning of each course!
 
 **[How to contribute](CONTRIBUTING.md)**
 
@@ -125,7 +125,7 @@ If you've never written a for-loop, or don't know what a string is in programmin
 
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
+[Introduction to programming](coursepages/intro-programming/README.md) | 10 weeks | 10 hours/week | none | [chat](https://discord.gg/syA242Z)
 
 ### Introduction to Computer Science
 
@@ -160,13 +160,10 @@ All coursework under Core CS is **required**, unless otherwise indicated.
 `Ruby`
 `and more`
 
-The How to Code courses are based on the textbook [How to Design Programs](https://htdp.org/2003-09-26/). The First Edition is available for free online and includes problem sets and solutions. Students are encouraged to do these assignments.
-
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
-[How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data) | 7 weeks | 8-10 hours/week | none | [chat](https://discord.gg/RfqAmGJ)
-[How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data) | 6 weeks | 8-10 hours/week | How to Code: Simple Data | [chat](https://discord.gg/kczJzpm)
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | How to Code ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
+[Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015) [(textbook)](https://htdp.org/2023-8-14/Book/index.html) (alt: [part 1](https://www.edx.org/course/how-to-code-simple-data) / [part 2](https://www.edx.org/course/how-to-code-complex-data)) | 13 weeks | 8-10 hours/week | none | chat: [part 1](https://discord.gg/RfqAmGJ) / [part 2](https://discord.gg/kczJzpm)
+[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 5 weeks | 4-8 hours/week | Systematic Program Design ([Hear instructor](https://www.coursera.org/lecture/programming-languages/recommended-background-k1yuh)) | [chat](https://discord.gg/8BkJtXN)
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 4-8 hours/week | Programming Languages, Part A | [chat](https://discord.gg/EeA7VR9)
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 4-8 hours/week | Programming Languages, Part B | [chat](https://discord.gg/8EZUVbA)
 [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design) | 4 weeks | 4 hours/week | [Basic Java](https://www.youtube.com/watch?v=GoXwIVyNvX0)
@@ -228,7 +225,7 @@ Courses | Duration | Effort | Additional Text / Assignments| Prerequisites | Dis
 :-- | :--: | :--: | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](https://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | - | C-like programming language | [chat](https://discord.gg/vxB2DRV)
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | - | one of [these programming languages](https://user-images.githubusercontent.com/2046800/35426340-f6ce6358-026a-11e8-8bbb-4e95ac36b1d7.png), From Nand to Tetris Part I | [chat](https://discord.gg/AsUXcPu)
-[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | [strong C programming](/coursepages/ostep/README.md#prerequisites) | [chat](https://discord.gg/wZNgpep)
+[Operating Systems: Three Easy Pieces](coursepages/ostep/README.md) | 10-12 weeks | 6-10 hours/week | - | Nand to Tetris Part II | [chat](https://discord.gg/wZNgpep)
 [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)| 8 weeks | 4–12 hours/week | [Wireshark Labs](http://gaia.cs.umass.edu/kurose_ross/wireshark.php) | algebra, probability, basic CS | [chat](https://discord.gg/MJ9YXyV)
 
 ### Core theory
@@ -298,9 +295,9 @@ Courses | Duration | Effort | Prerequisites | Discussion
 [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/pMFqNf4)
 [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/P8SPPyF)
 [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)| 2 weeks | 10 hours/week | core programming | [chat](https://discord.gg/duCJ3GN)
-[Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | linear algebra | [chat](https://discord.gg/NcXHDjy)
-[Computer Graphics](https://www.edx.org/course/computer-graphics-2)| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://discord.gg/68WqMNV)
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) | 6 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz)
+[Machine Learning](https://www.coursera.org/specializations/machine-learning-introduction)| 11 weeks | 9 hours/week | Basic coding | [chat](https://discord.gg/NcXHDjy)
+[Computer Graphics](https://www.edx.org/course/computer-graphics-2) ([alt](https://cseweb.ucsd.edu/~viscomp/classes/cse167/wi22/schedule.html))| 6 weeks | 12 hours/week | C++ or Java, linear algebra | [chat](https://discord.gg/68WqMNV)
+[Software Engineering: Introduction](https://www.coursera.org/learn/introduction-to-software-engineering) | 4 weeks | 8-10 hours/week | Core Programming, and a [sizable project](FAQ.md#why-require-experience-with-a-sizable-project-before-the-Software-Engineering-courses) | [chat](https://discord.gg/5Qtcwtz)
 
 ### Core ethics
 
@@ -390,7 +387,7 @@ Courses | Duration | Effort | Prerequisites | Notes
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
-[Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw) ([Lectures](https://www.youtube.com/playlist?list=PLTke5lHMAdSNmi57H0DOTzClHPK6UwSTN)) | 8 weeks | 10 hours/week | discrete mathematics, logic, algorithms
+[Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/) ([alt](http://aduni.org/courses/theory/index.php?view=cw)) | 13 weeks | 10 hours/week | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about), logic, algorithms
 [Computational Geometry](https://www.edx.org/course/computational-geometry) | 16 weeks | 8 hours/week | algorithms, C++
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | 3 hours/week | mathematical thinking, probability, calculus
 
@@ -406,13 +403,14 @@ Courses | Duration | Effort | Prerequisites
 [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) | 7 weeks | 1-2 hours/week | Secure Software Development: Implementation
 
 ### Advanced math
+
 Courses | Duration | Effort | Prerequisites | Discussion
 :-- | :--: | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | [high school math](FAQ.md#how-can-i-review-the-math-prerequisites) | [chat](https://discord.gg/m6wHbP6)
 [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | 14 weeks | 12 hours/week | corequisite: Essence of Linear Algebra | [chat](https://discord.gg/k7nSWJH)
 [Introduction to Numerical Methods](https://ocw.mit.edu/courses/mathematics/18-335j-introduction-to-numerical-methods-spring-2019/index.htm)| 14 weeks | 12 hours/week | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) | [chat](https://discord.gg/FNEcNNq)
-[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [set theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
-[Probability](https://projects.iq.harvard.edu/stat110/home) | 24 weeks | 12 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
+[Introduction to Formal Logic](https://forallx.openlogicproject.org/) | 10 weeks | 4-8 hours/week | [Set Theory](https://www.youtube.com/playlist?list=PL5KkMZvBpo5AH_5GpxMiryJT6Dkj32H6N) | [chat](https://discord.gg/MbM2Gg5)
+[Probability](https://projects.iq.harvard.edu/stat110/home) | 15 weeks | 5-10 hours/week | [Differentiation and Integration](https://www.edx.org/course/calculus-1b-integration) | [chat](https://discord.gg/UVjs9BU)
 
 ## Final project
 
